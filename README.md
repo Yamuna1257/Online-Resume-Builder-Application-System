@@ -1,2 +1,1 @@
-# AD-Project
-demo
+# Online Resume Builder Application System
